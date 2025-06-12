@@ -1,0 +1,20 @@
+.h1 {
+  font-family: cursive;
+  font-size: 50px;
+  text-decoration: underline;
+  border: 5px solid blue;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: thistle;
+}
+.p {
+  font-weight: bolder;
+  font-size: 20px;
+}
+.li {
+  font-weight: bolder;
+  font-size: 20px;
+}
