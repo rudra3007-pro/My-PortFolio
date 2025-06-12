@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>My Portfolio</title>
+  </head>
+  <body style="background-color: antiquewhite">
+    <h1 id="h1">My Portfolio - Rudraksh Mishra</h1>
+    <p class="p">
+      Hi...My name is Rudraksh Mishra..Want to know more about me , click on the
+      link below..
+      <br />
+      <br />
+      <a class="a" target="_blank" href="about.html">About Me</a>
+      <br>
+      <br>Click on the below link to get contact details - 
+      <br>
+      <br>
+      <a class="a" target="_blank" href="contact.html">Contact me</a>
+    </p>
+  </body>
+  <link rel="stylesheet" href="portfolio.css" />
+</html>
