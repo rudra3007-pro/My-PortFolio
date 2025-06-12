@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>About Me</title>
+  </head>
+  <body style="background-color:antiquewhite;">
+    <h1 class="h1">ABOUT ME</h1>
+    <h2
+      style="color: darkgreen; font-size: 30px; font-family: cursive; text-decoration: underline"
+    >
+      General Information
+    </h2>
+    <p class="p">
+      Name - Rudraksh Mishra <br />Date of Birth - 30-07-2007 <br />
+      City - Lucknow <br />
+      Gender - Male <br />
+      Father's Name - Mr. Ashok Kumar Mishra <br />
+      Mother's Name - Mrs. Priya Mishra <br />Sibling - Elder Sister ( Ms.
+      Nimisha Mishra) <br />
+    </p>
+    <h2
+      style="color: darkgreen; font-size: 30px; font-family: cursive; text-decoration: underline"
+    >
+      Educational Information
+    </h2>
+    <li class="li">
+      Completed High School from Bhartiya Vidya Bhavan Public School , Lucknow
+      with an overall percentage of 95%.
+    </li>
+    <br />
+    <li class="li">
+      Completed Intermediate from Bhartiya Vidya Bhavan Public School , Lucknow
+      with an overall percentage of 90%.
+    </li>
+    <br />
+    <li class="li">
+      Currently in the 2nd year of B.Tech in Computer Science and Engineering
+      from GLA University , Mathura. Got 9 CPI in 1st year
+    </li>
+    <br />
+    <h2 style="color: darkgreen; font-size: 30px; font-family: cursive; text-decoration: underline">Experience and Certifications</h2>
+    <li class="li">1-month Web - Development Internship in Codec Technologies , India. </li> <br>
+    <li class="li">2-month Internship in Agnirva in Space-related topics.</li> <br>
+    <li class="li">Got 4 Certifications from Indian Space Research Organisation (ISRO) till now.</li>
+    <br>
+    <li class="li">Gained 11 certifications in different domains of Computer Science including comapnies like IBM , Cisco , etc. till now.</li>
+
+  </body>
+  <link rel="stylesheet" href="about.css" />
+</html>
