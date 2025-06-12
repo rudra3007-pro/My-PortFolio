@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Contact</title>
+  </head>
+  <body style="background-color: antiquewhite">
+    <h1 class="h2">Email - <p style="color: red;">mrudraksh03@gmail.com</p> </h1>
+    <h1 class="h2">Contact Number - <p style="color: red;">9151117XXX</p></h1>
+    <h1 class="h2">
+      Linkedin Profile - <a class="a" target="_blank" href="https://www.linkedin.com/in/rudraksh-mishra-38824a326/">Click here</a>
+    </h1>
+    <h1 class="h2">
+      Wordpress Profile - <a class="a" target="_blank" href="https://com324108372.wordpress.com/">Click here</a>
+    </h1>
+
+    <h1 class="h2">GitHub Account - <a class="a" target="_blank" href="https://github.com/rudra3007-pro">Click here</a></h1>
+    <br />
+  </body>
+  <link rel="stylesheet" href="contact.css" />
+</html>
